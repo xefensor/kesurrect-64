@@ -20,7 +20,7 @@ IntensityEffect=0
 
 [Colors:Button]
 BackgroundAlternate=163,212,250
-BackgroundNormal=253,203,176
+BackgroundNormal=251,255,134
 DecorationFocus=77,155,230
 DecorationHover=77,155,230
 ForegroundActive=61,174,233
@@ -47,8 +47,8 @@ ForegroundPositive=39,174,96
 ForegroundVisited=155,89,182
 
 [Colors:Header]
-BackgroundAlternate=252,193,154
-BackgroundNormal=241,182,158
+BackgroundAlternate=162,169,71
+BackgroundNormal=162,169,71
 DecorationFocus=61,174,233
 DecorationHover=61,174,233
 ForegroundActive=61,174,233
@@ -90,7 +90,7 @@ ForegroundVisited=155,89,182
 
 [Colors:Tooltip]
 BackgroundAlternate=252,193,154
-BackgroundNormal=247,193,167
+BackgroundNormal=213,224,75
 DecorationFocus=77,155,230
 DecorationHover=77,155,230
 ForegroundActive=61,174,233
@@ -104,7 +104,7 @@ ForegroundVisited=155,89,182
 
 [Colors:View]
 BackgroundAlternate=253,203,176
-BackgroundNormal=253,203,176
+BackgroundNormal=251,255,134
 DecorationFocus=77,155,230
 DecorationHover=77,155,230
 ForegroundActive=61,174,233
@@ -118,7 +118,7 @@ ForegroundVisited=155,89,182
 
 [Colors:Window]
 BackgroundAlternate=252,193,154
-BackgroundNormal=245,189,159
+BackgroundNormal=213,224,75
 DecorationFocus=77,155,230
 DecorationHover=77,155,230
 ForegroundActive=61,174,233
@@ -132,7 +132,7 @@ ForegroundVisited=155,89,182
 
 [General]
 ColorScheme=BreezeLight
-Name=orange
+Name=kesurrect-64-lime
 shadeSortColumn=true
 
 [KDE]
